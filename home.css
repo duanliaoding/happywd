@@ -1,0 +1,11 @@
+#s_side_wrapper .qrcode-tooltip{width:306px;height:107px;overflow:hidden}
+#s_side_wrapper .qrcode-tooltip .text{text-align:left;margin-top:28px;margin-left:16px}
+#s_side_wrapper .qrcode-tooltip .text .login-text{color:#333;font-size:20px;margin-bottom:4px}
+#s_side_wrapper .qrcode-tooltip .text .login-text .login-icon{margin-right:4px;font-size:19px}
+#s_side_wrapper .qrcode-tooltip .text .login-info{font-size:14px;color:#9195a3}
+#s_side_wrapper .qrcode-tooltip .Qrcode-status-guideAnim,#s_side_wrapper .qrcode-tooltip .pass-form-logo{display:none}
+#s_side_wrapper .qrcode-tooltip .Qrcode-status-con{width:75px;height:75px;position:absolute;top:-69px;border:none;right:9px;padding-top:8px}
+#s_side_wrapper .qrcode-tooltip .Qrcode-status-con img{width:75px;height:75px}
+#s_side_wrapper .qrcode-tooltip .Qrcode-status-success.Qrcode-status-con{padding-top:5px;padding-right:10px}
+#s_side_wrapper .qrcode-tooltip .Qrcode-status-error,#s_side_wrapper .qrcode-tooltip .Qrcode-status-refresh{padding-top:6px;padding-right:12px}
+#s_side_wrapper .qrcode-tooltip .tang-pass-qrcode-content{padding-top:0}
